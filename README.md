@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 </div>
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=taozhi8833998&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/A-sad-ali/A-sad-ali/output/github-contribution-grid-snake-dark.svg)
