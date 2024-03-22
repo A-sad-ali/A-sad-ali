@@ -38,6 +38,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/A-sad-ali/A-sad-ali/output/snake.svg" alt="Snake animation" />
+![Snake animation]
+(https://github.com/A-sad-ali/A-sad-ali/blob/output/github-contribution-grid-snake.svg)
 
 ###
