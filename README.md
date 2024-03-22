@@ -38,7 +38,7 @@
 
 <br clear="both">
 
-![Snake animation]
+
 (https://github.com/A-sad-ali/A-sad-ali/blob/output/github-contribution-grid-snake.svg)
 
 ###
