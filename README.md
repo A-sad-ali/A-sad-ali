@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ✨ I study: AI, Mathematics, Probability, Python
 
-<img align="right" src="https://giphy.com/embed/MFmM2tWXL192oVKxUT" width="300">
+<img align="right" src="https://i.pinimg.com/originals/d5/ae/0d/d5ae0d3944269347f39090c463a07630.jpg" width="300">
 
 ### My stack:
 - 1+ years of experience in Python, Mathematics, IT Automation
