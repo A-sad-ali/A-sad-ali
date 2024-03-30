@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ✨ I study: AI, Mathematics, Probability, Python
 
-<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
+<img align="right" src="https://www.reddit.com/r/reactiongifs/comments/2nhksk/mrw_im_failing_calculus_but_i_can_still_get_an_a/" width="300">
 
 ### My stack:
 - 1+ years of experience in Python, Mathematics, IT Automation
